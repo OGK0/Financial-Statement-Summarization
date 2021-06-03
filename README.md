@@ -1,7 +1,7 @@
 # Financial-Statement-Summarization
 Applying Transformers for Summarizing Financial Statement Data
 
-#### Abstract
+#### Overview
 Automatic financial statement summarization using machine learning is
 an important task for forecasting company performance. This paper tested
 4 transformer architectures to determine their effectiveness for summarizing
